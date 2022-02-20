@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rihi1
+- 👀 I’m interested in Node JS
+- 🌱 I’m currently learning NodeJS and Networking
